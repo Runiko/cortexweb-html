@@ -76,3 +76,7 @@ select, option {
 .form-row {
   padding-bottom: 1%;
 }
+
+.tos-headers {
+  color: rgb(0, 240, 20);
+}
