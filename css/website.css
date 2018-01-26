@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans|Open+Sans&subset=latin-ext');
+/*
+* Cortex application for web browser
+* Copyright (c) 2017 Imparakeet (Daniel Zdziebko and Patryk Kołodziejczyk)
+*/
+
+body {
+  background-color: rgba(0,0,0,0.6);
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Nunito Sans', sans-serif;
+  color: #fff;
+}
+
+select, option {
+  color: #2c3e50;
+}
+
+.row-logo {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  /*background-color: rgba(0,0,0,0.1);*/
+}
+
+.row-buttons {
+  padding-top: 3%;
+  text-align: center;
+}
+
+.row-buttons:last-child {
+  padding-bottom: 1.5%;
+}
+
+.row-buttons a {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.logo-part {
+  display: inline-block;
+  padding: 2%;
+}
+
+.main-copyright {
+  text-align: center;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+}
+
+.user-form {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3%;
+}
+
+.form-login button {
+  width: 30%;
+}
+
+.lang-select-class-test {
+  margin-top: -10px;
+}
+
+.tile {
+  width: 50%;
+}
+
+.form-row {
+  padding-bottom: 1%;
+}
