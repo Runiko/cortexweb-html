@@ -78,5 +78,6 @@ select, option {
 }
 
 .tos-headers {
-  color: rgb(0, 240, 20);
+  color: #18bc9c;
+  font-weight: bold;
 }
